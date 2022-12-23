@@ -15,7 +15,7 @@
 
 ## learning from this project
 
--  Learnt about Positioning
+-  Learned about Positioning
 -   Learned about Z-index
 - Learned about How to make Page Responsive
 -  Learned to integrate font awesome icons
