@@ -3,7 +3,7 @@
 ## Project Name: Creativity Landing Page
 ### By Yash Shamnani
 
-##  Live Link -: [Creativity](https://yashshamnani-saas-landing-page.netlify.app/)
+##  Live Link -: [Creativity](https://yashshamnani-creativity-home-page.netlify.app/)
 ---
 
 ##  Technologies used
